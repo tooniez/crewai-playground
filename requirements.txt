@@ -1,0 +1,10 @@
+crewai
+streamlit 
+unstructured
+langchain
+pyowm
+tools
+crewai-tools
+langchain-ollama
+langchain-community
+ollama
